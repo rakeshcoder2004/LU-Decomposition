@@ -47,8 +47,8 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
-
+![lu decomposition](./Screenshot%20from%202023-01-30%2014-06-30.png)
+![lu decomposition](./Screenshot%20from%202023-01-30%2014-06-40.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
